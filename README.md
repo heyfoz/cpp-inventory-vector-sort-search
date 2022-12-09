@@ -4,7 +4,7 @@ The Inventory Vector Search/Sort Program (C++) reads an Inventory.Parts.txt file
 Notable software engineering features:
 <ul>
   <li>Insertion sort algorithm of an inventory vector of part objects</li>
-  <li>Binary search algorithm to find index of part by part number</li>
+  <li>Binary search algorithm to find index of part record by part number</li>
   <li>Reference variables used as parameters</li>
   <li>Custom Part data structure</li>
   <li>Data validation and formatting</li>
