@@ -12,3 +12,5 @@ Notable software engineering features:
 </ul>
 
 Link to .cpp file: <a href="https://github.com/ffm5113/cpp_inventory_vector_search_sort/blob/main/InventoryVectorSearchNSort.cpp">Inventory Vector Search/Sort C++ Program</a>
+
+Copyright (c) 2022 ffm5113
