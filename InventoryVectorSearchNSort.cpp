@@ -11,7 +11,7 @@
 using namespace std;
 
 // Global Constant Initialization
-const string TITLE = "Inventory Part Manager Read/Write Program";
+const string TITLE = "Inventory Part Manager Sort/Search Program";
 const string AUTHOR_LINE = "By Forrest Moulin";
 
 // Global input file stream accessible by all functions
@@ -408,7 +408,7 @@ string partDetailToStr(Part p)
 }
 /*
 * CONSOLE OUTPUT SAMPLE
-* Inventory Part Manager Read/Write Program
+* Inventory Part Manager Sort/Search Program
 * By Forrest Moulin
 *
 * Reading InventoryPart.txt file...
