@@ -11,4 +11,4 @@ Notable software engineering features:
   <li>Input/output file streams and string stream objects</li>
 </ul>
 
-Link to .cpp file: <a href="">Inventory Vector Search/Sort C++ Program</a>
+Link to .cpp file: <a href="https://github.com/ffm5113/cpp_inventory_vector_search_sort/blob/main/InventoryVectorSearchNSort.cpp">Inventory Vector Search/Sort C++ Program</a>
