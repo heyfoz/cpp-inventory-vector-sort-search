@@ -8,8 +8,3 @@ Notable program features:
 <li>Reference variables used as parameters</li>
 <li>Custom Part data structure</li>
 </ul>
-
-- Insertion sort algorithm of an inventory vector of part objects
-- Binary search algorithm to find index of part by part number
-- Reference variables used as parameters
-- Custom Part data structure
