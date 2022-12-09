@@ -10,3 +10,5 @@ Notable software engineering features:
   <li>Data validation and formatting</li>
   <li>Input/output file streams and string stream objects</li>
 </ul>
+
+Link to .cpp file: <a href="">Inventory Vector Search/Sort C++ Program</a>
