@@ -154,7 +154,7 @@ int main()
 			else if (keepLoopChar == 'y' || keepLoopChar == 'Y')
 			{   // Reset value
 				/*keepLoopChar = ' ';*/
-				// Break inner loop to return to beginning of outter loop
+				// Break inner loop to return to beginning of outer loop
 				cout << endl;
 				break;
 			}
