@@ -503,7 +503,7 @@ string partDetailToStr(Part p)
 *
 * Search Overview  -  Current Session
 * Total searches: 6
-* Succesful searches: 3
+* Successful searches: 3
 * Unsuccessful searches (not found): 3
 *
 * Thanks for using Forrest's Greener Inventory Programs
