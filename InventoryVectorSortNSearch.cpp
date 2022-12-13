@@ -342,7 +342,7 @@ void printSearchStats(int numSearches, int goodSearches, int badSearches)
 {
 	cout << endl << "Search Overview  -  Current Session" << endl
 		<< "Total searches: " << numSearches << endl
-		<< "Succesful searches: " << goodSearches << endl
+		<< "Successful searches: " << goodSearches << endl
 		<< "Unsuccessful searches (not found): " << badSearches
 		<< endl << endl;
 }
